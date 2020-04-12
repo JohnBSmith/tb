@@ -1,0 +1,13 @@
+[package]
+name = "tb"
+version = "0.1.0"
+authors = ["Finn <finn.bcd@gmail.com>"]
+license = "CC0-1.0"
+edition = "2018"
+
+description = "A small toolbox"
+repository = "https://github.com/JohnBSmith/tb"
+readme = "README.md"
+
+[dependencies]
+# None.
